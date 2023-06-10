@@ -1,0 +1,2 @@
+conda activate rl-project
+alias python=python3

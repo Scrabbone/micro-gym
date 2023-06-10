@@ -1,0 +1,16 @@
+from setuptools import setup
+setup(name='micro_grid', version='1.0.0', install_requires=[
+    "matplotlib == 3.5.1",
+    "meteostat == 1.6.1",
+    "networkx == 2.6.3",
+    "numpy == 1.22.2",
+    "pysolar == 0.10",
+    "pytz == 2021.3",
+    "setuptools == 58.0.4",
+    "stable_baselines3[extra] == 1.4.0",
+    "tzwhere == 3.0.3",
+    "matplotlib == 3.5.1",
+    "pandas == 1.4.1",
+    "PyYAML == 6.0",
+    "gym == 0.19.0"
+])

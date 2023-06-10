@@ -1,0 +1,18 @@
+buildings:
+  - energy_sources:
+    - type: solar
+      peak_power: 11.1
+    battery:
+      capacity: 27.76
+    inhabitants: 5
+  - energy_sources:
+    - type: solar
+      peak_power: 0.93
+    battery:
+      capacity: 0
+    inhabitants: 2
+  - energy_sources:
+    
+    battery:
+      capacity: 0
+    inhabitants: 1
